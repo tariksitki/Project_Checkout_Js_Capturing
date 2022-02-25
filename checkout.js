@@ -81,12 +81,7 @@ productsDiv.addEventListener("click", (e) => {
     }
 
 
-
-
-
-
     /////  add Product
-
 
     let form = document.getElementById("customer-form");
     let addButton = form.lastElementChild;
